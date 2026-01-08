@@ -1,5 +1,5 @@
 def my_function():
-    a = 5
-    return a
+    return 5
 
-print(my_function())
+
+print("hi")    # 2 blank lines above
