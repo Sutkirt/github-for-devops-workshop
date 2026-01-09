@@ -1,8 +1,17 @@
+"""
+Demo module for greeting functions.
+"""
+
+
 def hello():
     """
-    this is demo
+    Return a friendly greeting message.
+
+    Returns:
+        str: A simple greeting text.
     """
     return "Hello Dosto"
 
 
-hello()
+if __name__ == "__main__":
+    print(hello())
